@@ -10,417 +10,631 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20151009065821.1"><vh>@edit README.md</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
-<v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
-<v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151207101645.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151015150722.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151101202158.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151203165806.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151207101437.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151207101533.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151207101539.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151207101544.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="LEO.20151221094538.1"><vh>@edit 2015cadp_w10.md</vh></v>
+<v t="LEO.20151221094658.1"><vh>@edit 2015cadp_w11.md</vh></v>
+<v t="LEO.20151221104934.1"><vh>@edit 2015cadp_w12.md</vh></v>
+<v t="leo.20151228102406.1"><vh>@edit 2015cadp_w13.md</vh></v>
+<v t="leo.20151228112220.1"><vh>@edit 2015cadp_w14.md</vh></v>
+<v t="leo.20160104101243.1"><vh>@edit 2015cadp_w15.md</vh></v>
+<v t="leo.20160104102912.1"><vh>@edit 2015cadp_w16.md</vh></v>
+<v t="leo.20160104104822.1"><vh>@edit 2015cadp_w17.md</vh></v>
+<v t="leo.20160107133737.1"><vh>@edit 2015cadp_all.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2"><vh>html 標註</vh>
-<v t="amd.20150915155634.3" a="E"><vh>head</vh>
-<v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
-<v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
-<v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
-</v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
-<v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
-<v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
-<v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
-<v t="amd.20150915155634.12"><vh>h2 - 實體輔助工具</vh></v>
-<v t="amd.20150915155634.13"><vh>h2 - 垂直有下屬頁</vh>
-<v t="amd.20150915155634.14"><vh>h2</vh></v>
-<v t="amd.20150915155634.15"><vh>h2</vh></v>
-<v t="amd.20150915155634.16"><vh>h2</vh></v>
-</v>
-<v t="amd.20150915173703.1"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915173703.2" a="E"><vh>pre</vh>
-<v t="amd.20150915173703.3"><vh>code</vh></v>
-</v>
-<v t="amd.20150915173703.4"><vh>p</vh></v>
-</v>
-<v t="amd.20150915155634.17"><vh>h2</vh></v>
-<v t="amd.20150915204710.1"><vh>內嵌 Vimeo 影片</vh></v>
-<v t="amd.20150915155634.18"><vh>h2</vh></v>
-<v t="amd.20150915155634.19"><vh>h2</vh></v>
-<v t="amd.20150915155634.20"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915155634.21" a="E"><vh>h2</vh>
-<v t="amd.20150915160450.1"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915155634.28" a="E"><vh>下屬頁面</vh>
-<v t="amd.20150915161424.1"><vh>h2</vh></v>
-<v t="amd.20150915155634.29"><vh>p</vh></v>
-<v t="amd.20150915155634.30"><vh>p</vh></v>
-<v t="amd.20150915155634.31"><vh>p</vh></v>
-<v t="amd.20150915155634.32"><vh>p</vh></v>
-<v t="amd.20150915155634.33"><vh>p</vh></v>
-<v t="amd.20150915155634.34"><vh>p</vh></v>
-<v t="amd.20150915155634.35"><vh>p</vh></v>
-</v>
-</v>
-<v t="amd.20150915155634.36"><vh>h2</vh></v>
-<v t="amd.20150915155634.37"><vh>p</vh>
-<v t="amd.20150915155634.38"><vh>a</vh></v>
-<v t="amd.20150915155634.39"><vh>a</vh></v>
-<v t="amd.20150915155634.40"><vh>a</vh></v>
-<v t="amd.20150915155634.41"><vh>a</vh></v>
-<v t="amd.20150915155634.42"><vh>a</vh></v>
-<v t="amd.20150915155634.43"><vh>a</vh></v>
-</v>
-<v t="amd.20150915155634.44"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915155634.45" a="E"><vh>p</vh>
-<v t="amd.20150915155634.46"><vh>a</vh></v>
-<v t="amd.20150915155634.47"><vh>a</vh></v>
-<v t="amd.20150915155634.48"><vh>a</vh></v>
-<v t="amd.20150915155634.49"><vh>a</vh></v>
-<v t="amd.20150915155634.50"><vh>a</vh></v>
-<v t="amd.20150915155634.51"><vh>a</vh></v>
-<v t="amd.20150915155634.52"><vh>a</vh></v>
-<v t="amd.20150915155634.53"><vh>a</vh></v>
-<v t="amd.20150915155634.54"><vh>a</vh></v>
-<v t="amd.20150915155634.55"><vh>a</vh></v>
-<v t="amd.20150915155634.56"><vh>a</vh></v>
-</v>
-<v t="amd.20150915155634.57"><vh>h2</vh></v>
-<v t="amd.20150915155634.58"><vh>p</vh>
-<v t="amd.20150915155634.59"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.60"><vh>a</vh></v>
-<v t="amd.20150915155634.61"><vh>h2</vh></v>
-<v t="amd.20150915155634.62" a="E"><vh>pre</vh>
-<v t="amd.20150915155634.63"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.64"><vh>h2 - 背景填圖頁面</vh></v>
-<v t="amd.20150915155634.65" a="E"><vh>pre</vh>
-<v t="amd.20150915155634.66"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.67" a="E"><vh>div</vh>
-<v t="amd.20150915155634.68"><vh>h2</vh></v>
-<v t="amd.20150915155634.69"><vh>pre</vh>
-<v t="amd.20150915155634.70"><vh>code</vh></v>
-</v>
-</v>
-<v t="amd.20150915155634.71"><vh>h2</vh></v>
-<v t="amd.20150915155634.72"><vh>h2</vh></v>
-<v t="amd.20150915155634.73"><vh>p</vh></v>
-<v t="amd.20150915155634.74"><vh>pre</vh>
-<v t="amd.20150915155634.75"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.76"><vh>h2 - 背景轉換</vh></v>
-<v t="amd.20150915155634.77"><vh>p</vh></v>
-<v t="amd.20150915155634.78" a="E"><vh>pre</vh>
-<v t="amd.20150915155634.79"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.80" a="E"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915155634.81" a="E"><vh>pre</vh>
-<v t="amd.20150915155634.82"><vh>code</vh></v>
-</v>
-<v t="amd.20150915155634.83"><vh>p</vh></v>
-</v>
-<v t="amd.20150915155634.85"><vh>h2</vh></v>
-<v t="amd.20150915155634.86" a="E"><vh>ul</vh>
-<v t="amd.20150915155634.87"><vh>li</vh></v>
-<v t="amd.20150915155634.88"><vh>li</vh></v>
-<v t="amd.20150915155634.89"><vh>li</vh></v>
-<v t="amd.20150915155634.90"><vh>li</vh></v>
+<v t="leo.20151207101558.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151207101558.2"><vh>檔案說明</vh></v>
+<v t="leo.20151207101558.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151207101558.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151207101558.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151207101558.6"><vh>div class="slides"</vh>
+<v t="leo.20151207101558.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151207101558.8"><vh>作業任務一</vh></v>
+<v t="leo.20151207101558.9"><vh>第3張投影片</vh></v>
 </v>
-<v t="amd.20150915155634.91"><vh>h2</vh></v>
-<v t="amd.20150915155634.92"><vh>ol</vh>
-<v t="amd.20150915155634.93"><vh>li</vh></v>
-<v t="amd.20150915155634.94"><vh>li</vh></v>
-<v t="amd.20150915155634.95"><vh>li</vh></v>
 </v>
-<v t="amd.20150915155634.96"><vh>h2 - 表格頁面</vh></v>
-<v t="amd.20150915155634.97" a="E"><vh>table</vh>
-<v t="amd.20150915155634.98"><vh>thead</vh>
-<v t="amd.20150915155634.99"><vh>tr</vh>
-<v t="amd.20150915155634.100"><vh>th</vh></v>
-<v t="amd.20150915155634.101"><vh>th</vh></v>
-<v t="amd.20150915155634.102"><vh>th</vh></v>
+<v t="leo.20151207101558.10"><vh>script</vh></v>
 </v>
 </v>
-<v t="amd.20150915155634.103"><vh>tbody</vh>
-<v t="amd.20150915155634.104"><vh>tr</vh>
-<v t="amd.20150915155634.105"><vh>td</vh></v>
-<v t="amd.20150915155634.106"><vh>td</vh></v>
-<v t="amd.20150915155634.107"><vh>td</vh></v>
 </v>
-<v t="amd.20150915155634.108"><vh>tr</vh>
-<v t="amd.20150915155634.109"><vh>td</vh></v>
-<v t="amd.20150915155634.110"><vh>td</vh></v>
-<v t="amd.20150915155634.111"><vh>td</vh></v>
+<v t="leo.20151207101606.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151207101606.2"><vh>檔案說明</vh></v>
+<v t="leo.20151207101606.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151207101606.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151207101606.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151207101606.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151207101606.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151207101606.8"><vh>作業任務一</vh></v>
+<v t="leo.20151207101606.9"><vh>第3張投影片</vh></v>
 </v>
-<v t="amd.20150915155634.112"><vh>tr</vh>
-<v t="amd.20150915155634.113"><vh>td</vh></v>
-<v t="amd.20150915155634.114"><vh>td</vh></v>
-<v t="amd.20150915155634.115"><vh>td</vh></v>
 </v>
+<v t="leo.20151207101606.10"><vh>script</vh></v>
 </v>
 </v>
-<v t="amd.20150915155634.116"><vh>h2</vh></v>
-<v t="amd.20150915155634.117"><vh>p</vh>
-<v t="amd.20150915155634.118"><vh>q</vh></v>
 </v>
-<v t="amd.20150915155634.119"><vh>blockquote</vh></v>
-<v t="amd.20150915155634.120"><vh>h2</vh></v>
-<v t="amd.20150915155634.121"><vh>p</vh>
-<v t="amd.20150915155634.122"><vh>a</vh></v>
+<v t="leo.20151207101624.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151207101624.2"><vh>檔案說明</vh></v>
+<v t="leo.20151207101624.3"><vh>html 標註</vh>
+<v t="leo.20151207101624.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151207101624.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151207101624.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151207101624.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151207101624.8"><vh>作業任務一</vh></v>
+<v t="leo.20151207101624.9"><vh>第3張投影片</vh></v>
 </v>
-<v t="amd.20150915155634.123"><vh>h2</vh></v>
-<v t="amd.20150915155634.124" a="E"><vh>p</vh>
-<v t="amd.20150915155634.125"><vh>a</vh></v>
 </v>
-<v t="amd.20150915155634.126"><vh>p</vh>
-<v t="amd.20150915155634.127"><vh>em</vh></v>
+<v t="leo.20151207101624.10"><vh>script</vh></v>
 </v>
-<v t="amd.20150915155634.128"><vh>h2</vh></v>
-<v t="amd.20150915155634.129"><vh>p</vh>
-<v t="amd.20150915155634.130"><vh>a</vh></v>
 </v>
-<v t="amd.20150915155634.131"><vh>iframe</vh></v>
-<v t="amd.20150915155634.132"><vh>h2</vh></v>
-<v t="amd.20150915155634.133" a="E"><vh>p</vh>
-<v t="amd.20150915155634.134"><vh>code</vh></v>
-<v t="amd.20150915155634.135"><vh>code</vh></v>
 </v>
-<v t="amd.20150915155634.136"><vh>h2</vh></v>
-<v t="amd.20150915155634.137"><vh>p</vh>
-<v t="amd.20150915155634.138"><vh>code</vh></v>
+<v t="LEO.20151221094547.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221094547.2" a="E"><vh>@clean cadp_w10_lecture.html</vh>
+<v t="LEO.20151221094547.3"><vh>檔案說明</vh></v>
+<v t="LEO.20151221094547.4" a="E"><vh>html 標註</vh>
+<v t="LEO.20151221094547.5" a="E"><vh>body 標註</vh>
+<v t="LEO.20151221094547.6" a="E"><vh>div class="reveal"</vh>
+<v t="LEO.20151221094547.7" a="E"><vh>div class="slides"</vh>
+<v t="LEO.20151221094547.8" a="E"><vh>第 10 週開始的規劃</vh>
+<v t="LEO.20151221094547.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915155634.139"><vh>pre</vh>
-<v t="amd.20150915155634.140"><vh>code</vh></v>
+<v t="LEO.20151221094547.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221094547.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915155634.141"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
-<v t="amd.20150915155634.142"><vh>p</vh></v>
-<v t="amd.20150915155634.143" a="E"><vh>h2 unordered list 頁面</vh>
-<v t="amd.20150915155634.148"><vh>li</vh>
-<v t="amd.20150915155634.149"><vh>a</vh></v>
+<v t="LEO.20151221094547.12" a="E"><vh>第10週自評與心得</vh>
+<v t="LEO.20151221094547.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915155634.150"><vh>li</vh>
-<v t="amd.20150915155634.151"><vh>a</vh></v>
 </v>
-<v t="amd.20150915155634.152"><vh>li</vh>
-<v t="amd.20150915155634.153"><vh>a</vh></v>
 </v>
-<v t="amd.20150915155634.146"><vh>li</vh>
-<v t="amd.20150915155634.147"><vh>a</vh></v>
+<v t="LEO.20151221094547.14"><vh>script</vh></v>
 </v>
-<v t="amd.20150915155634.145"><vh>li</vh></v>
 </v>
-<v t="amd.20150915155634.154"><vh>結束單頁</vh></v>
 </v>
 </v>
-<v t="amd.20150915155634.158"><vh>script</vh></v>
-<v t="amd.20150915155634.159"><vh>script</vh></v>
-<v t="amd.20150915155634.160"><vh>script</vh></v>
+<v t="LEO.20151221095409.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221095409.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
+<v t="LEO.20151221095409.3"><vh>檔案說明</vh></v>
+<v t="LEO.20151221095409.4" a="E"><vh>html 標註</vh>
+<v t="LEO.20151221095409.5" a="E"><vh>body 標註</vh>
+<v t="LEO.20151221095409.6" a="E"><vh>div class="reveal"</vh>
+<v t="LEO.20151221095409.7" a="E"><vh>div class="slides"</vh>
+<v t="LEO.20151221095409.8" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20151228095024.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="LEO.20151221095409.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221095409.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="LEO.20151221095703.1" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221095703.2"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2"><vh>html</vh>
-<v t="amd.20150913233943.3" a="E"><vh>head</vh>
-<v t="amd.20150913233943.4"><vh>title</vh></v>
+<v t="LEO.20151221095409.12" a="E"><vh>第11週自評與心得</vh>
+<v t="LEO.20151221095409.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
-<v t="amd.20150913234947.1"><vh>title page</vh>
-<v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
-<v t="amd.20150913235034.1"><vh>本日要點</vh></v>
-<v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
-<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
-<v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
 </v>
-<v t="amd.20150913235123.1"><vh>結論</vh></v>
+<v t="LEO.20151221095409.14"><vh>script</vh></v>
 </v>
 </v>
-<v t="amd.20150913233943.81"><vh>script</vh></v>
-<v t="amd.20150913233943.82"><vh>script</vh></v>
-<v t="amd.20150913233943.83"><vh>script</vh></v>
 </v>
 </v>
+<v t="LEO.20151221105255.1"><vh>@button open htm1</vh>
+<v t="LEO.20151221105255.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="LEO.20151221105255.3"><vh>檔案說明</vh></v>
+<v t="LEO.20151221105255.4" a="E"><vh>html 標註</vh>
+<v t="LEO.20151221105255.5" a="E"><vh>body 標註</vh>
+<v t="LEO.20151221105255.6" a="E"><vh>div class="reveal"</vh>
+<v t="LEO.20151221105255.7" a="E"><vh>div class="slides"</vh>
+<v t="LEO.20151221105255.8" a="E"><vh>第 12 週開始的規劃</vh>
+<v t="LEO.20151221105255.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
-<v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
-<v t="ibm.20150918175403.3"><vh>html 標註</vh>
-<v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
-<v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
-<v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
-<v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
-<v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
-<v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
-<v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
-<v t="ibm.20150918175951.1"><vh>Jupyter 操作</vh></v>
-<v t="ibm.20150918181528.1"><vh>結論</vh></v>
+<v t="LEO.20151221105255.10" a="E"><vh>header 測試</vh>
+<v t="LEO.20151221105255.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="LEO.20151221105255.14" a="E"><vh>第12週自評與心得</vh>
+<v t="LEO.20151221105255.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="ibm.20150918175403.10"><vh>script</vh></v>
 </v>
 </v>
+<v t="LEO.20151221105255.16"><vh>script</vh></v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
-<v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="amd.20150915211351.15"><vh>script</vh></v>
 </v>
+<v t="leo.20151228102726.1"><vh>@button open htm1</vh>
+<v t="leo.20151228102726.2" a="E"><vh>@clean cadp_w13_lecture.html</vh>
+<v t="leo.20151228102726.3"><vh>檔案說明</vh></v>
+<v t="leo.20151228102726.4" a="E"><vh>html 標註</vh>
+<v t="leo.20151228102726.5" a="E"><vh>body 標註</vh>
+<v t="leo.20151228102726.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228102726.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228102726.8" a="E"><vh>第 13 週開始的規劃</vh>
+<v t="leo.20151228102726.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="leo.20151228102726.10" a="E"><vh>header 測試</vh>
+<v t="leo.20151228102726.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="leo.20151015151028.1" a="E"><vh>@clean simplest2.html</vh>
-<v t="leo.20151015151028.2"><vh>檔案說明</vh></v>
-<v t="leo.20151015151028.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151015151028.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151015151028.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151015151028.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151015151028.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151015151028.8"><vh>作業任務一</vh></v>
-<v t="leo.20151015151028.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151228102726.14" a="E"><vh>第13週自評與心得</vh>
+<v t="leo.20151228102726.15"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
-<v t="leo.20151015151028.10"><vh>script</vh></v>
 </v>
+<v t="leo.20151228102726.16"><vh>script</vh></v>
 </v>
 </v>
-<v t="leo.20151101174903.1" a="E"><vh>@clean simplest3.html</vh>
-<v t="leo.20151101174903.2"><vh>檔案說明</vh></v>
-<v t="leo.20151101174903.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151101174903.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151101174903.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151101174903.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151101174903.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151101174903.8"><vh>作業任務一</vh></v>
-<v t="leo.20151101174903.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151101174903.10"><vh>script</vh></v>
+<v t="leo.20151228112835.1"><vh>@button open htm1</vh>
+<v t="leo.20151228112835.2" a="E"><vh>@clean cadp_w14_lecture.html</vh>
+<v t="leo.20151228112835.3"><vh>檔案說明</vh></v>
+<v t="leo.20151228112835.4" a="E"><vh>html 標註</vh>
+<v t="leo.20151228112835.5" a="E"><vh>body 標註</vh>
+<v t="leo.20151228112835.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151228112835.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151228112835.8" a="E"><vh>第 14 週開始的規劃</vh>
+<v t="leo.20151228112835.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="leo.20151228112835.10" a="E"><vh>header 測試</vh>
+<v t="leo.20151228112835.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="leo.20151228112835.12" a="E"><vh>第14週自評與心得</vh>
+<v t="leo.20151228112835.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915170743.3"><vh>head</vh></v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
-<v t="amd.20150915170743.9" a="E"><vh>div - reveal and slides</vh>
-<v t="amd.20150915170743.10"><vh>一般單頁加上 anchor</vh></v>
-<v t="amd.20150915170743.11"><vh>一般單頁</vh></v>
-<v t="amd.20150915170743.12" a="E"><vh>垂直有下屬頁</vh>
-<v t="amd.20150915170743.13"><vh>下屬頁之一</vh></v>
-<v t="amd.20150915170743.14"><vh>下屬頁之二</vh></v>
-<v t="amd.20150915170743.15"><vh>下屬頁之三</vh></v>
 </v>
-<v t="amd.20150915170743.16"><vh>一般頁面加上跳頁 anchor</vh></v>
-<v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915170743.20" a="E"><vh>逐一出現項目頁面</vh>
-<v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915170743.22" a="E"><vh>垂直之下屬頁面</vh>
-<v t="amd.20150915170743.23"><vh>標題</vh></v>
-<v t="amd.20150915170743.24"><vh>一般項目</vh></v>
-<v t="amd.20150915170743.25"><vh>逐一跳出項目 grow</vh></v>
-<v t="amd.20150915170743.26"><vh>逐一跳出項目 shrink</vh></v>
-<v t="amd.20150915170743.27"><vh>逐一跳出項目 fade-out</vh></v>
-<v t="amd.20150915170743.28"><vh>逐一跳出項目 cruuent-visible</vh></v>
-<v t="amd.20150915170743.29"><vh>逐一跳出項目 highlight-red</vh></v>
-<v t="amd.20150915170743.30"><vh>逐一跳出項目 highlight-blue</vh></v>
 </v>
+<v t="leo.20151228112835.14"><vh>script</vh></v>
 </v>
-<v t="amd.20150915170743.59"><vh>背景填圖頁面</vh></v>
-<v t="amd.20150915170743.75" a="E"><vh>內含程式碼頁面</vh>
-<v t="amd.20150915170743.76" a="E"><vh>pre</vh>
-<v t="amd.20150915170743.77"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.78"><vh>p</vh></v>
 </v>
-<v t="amd.20150915170743.80" a="E"><vh>ul 資料表列</vh>
-<v t="amd.20150915170743.81"><vh>li</vh></v>
-<v t="amd.20150915170743.82"><vh>li</vh></v>
-<v t="amd.20150915170743.83"><vh>li</vh></v>
-<v t="amd.20150915170743.84"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.86" a="E"><vh>ol 資料表列</vh>
-<v t="amd.20150915170743.87"><vh>li</vh></v>
-<v t="amd.20150915170743.88"><vh>li</vh></v>
-<v t="amd.20150915170743.89"><vh>li</vh></v>
+<v t="leo.20160104101716.1"><vh>@button open htm1</vh>
+<v t="leo.20160104101716.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
+<v t="leo.20160104101716.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104101716.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104101716.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104101716.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104101716.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104101716.8" a="E"><vh>第 15 週開始的規劃</vh>
+<v t="leo.20160104101716.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.91" a="E"><vh>表格頁面</vh>
-<v t="amd.20150915170743.92" a="E"><vh>thead</vh>
-<v t="amd.20150915170743.93" a="E"><vh>tr</vh>
-<v t="amd.20150915170743.94"><vh>th</vh></v>
-<v t="amd.20150915170743.95"><vh>th</vh></v>
-<v t="amd.20150915170743.96"><vh>th</vh></v>
+<v t="leo.20160104101716.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104101716.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
+<v t="leo.20160104101716.12" a="E"><vh>第15週自評與心得</vh>
+<v t="leo.20160104101716.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.97" a="E"><vh>tbody</vh>
-<v t="amd.20150915170743.98"><vh>tr</vh>
-<v t="amd.20150915170743.99"><vh>td</vh></v>
-<v t="amd.20150915170743.100"><vh>td</vh></v>
-<v t="amd.20150915170743.101"><vh>td</vh></v>
 </v>
-<v t="amd.20150915170743.102"><vh>tr</vh>
-<v t="amd.20150915170743.103"><vh>td</vh></v>
-<v t="amd.20150915170743.104"><vh>td</vh></v>
-<v t="amd.20150915170743.105"><vh>td</vh></v>
 </v>
-<v t="amd.20150915170743.106"><vh>tr</vh>
-<v t="amd.20150915170743.107"><vh>td</vh></v>
-<v t="amd.20150915170743.108"><vh>td</vh></v>
-<v t="amd.20150915170743.109"><vh>td</vh></v>
+<v t="leo.20160104101716.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.111" a="E"><vh>Clever Quotes</vh>
-<v t="amd.20150915170743.112"><vh>q</vh></v>
-<v t="amd.20150915170743.113"><vh>blockquote</vh></v>
 </v>
-<v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
-<v t="amd.20150915170743.137" a="E"><vh>h2 unordered list 頁面</vh>
-<v t="amd.20150915170743.138"><vh>li</vh>
-<v t="amd.20150915170743.139"><vh>a</vh></v>
+<v t="leo.20160104103122.1"><vh>@button open htm1</vh>
+<v t="leo.20160104103122.2" a="E"><vh>@clean cadp_w16_lecture.html</vh>
+<v t="leo.20160104103122.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104103122.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104103122.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104103122.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104103122.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104103122.8" a="E"><vh>第 16 週開始的規劃</vh>
+<v t="leo.20160104103122.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.140"><vh>li</vh>
-<v t="amd.20150915170743.141"><vh>a</vh></v>
+<v t="leo.20160104103122.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104103122.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.142"><vh>li</vh>
-<v t="amd.20150915170743.143"><vh>a</vh></v>
+<v t="leo.20160104103122.12" a="E"><vh>第16週自評與心得</vh>
+<v t="leo.20160104103122.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="amd.20150915170743.144"><vh>li</vh>
-<v t="amd.20150915170743.145"><vh>a</vh></v>
 </v>
-<v t="amd.20150915170743.146"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.147"><vh>結束單頁</vh></v>
+<v t="leo.20160104103122.14"><vh>script</vh></v>
 </v>
-<v t="amd.20150915170743.148"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160104105231.1"><vh>@button open htm1</vh>
+<v t="leo.20160104105231.2" a="E"><vh>@clean cadp_w17_lecture.html</vh>
+<v t="leo.20160104105231.3"><vh>檔案說明</vh></v>
+<v t="leo.20160104105231.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160104105231.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160104105231.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160104105231.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160104105231.8" a="E"><vh>第 17 週開始的規劃</vh>
+<v t="leo.20160104105231.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104105231.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160104105231.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160104105231.12" a="E"><vh>第17週自評與心得</vh>
+<v t="leo.20160104105231.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160104105231.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="leo.20160107134017.1" a="E"><vh>@button open htm1</vh>
+<v t="leo.20160107134017.2" a="E"><vh>@clean cadp_all_lecture.html</vh>
+<v t="leo.20160107134017.3"><vh>檔案說明</vh></v>
+<v t="leo.20160107134017.4" a="E"><vh>html 標註</vh>
+<v t="leo.20160107134017.5" a="E"><vh>body 標註</vh>
+<v t="leo.20160107134017.6" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160107134017.7" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160107134017.8" a="E"><vh>學期自評</vh>
+<v t="leo.20160107134017.9"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160107134017.10" a="E"><vh>header 測試</vh>
+<v t="leo.20160107134017.11"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107134017.14"><vh>script</vh></v>
+</v>
 </v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="LEO.20151221094547.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="LEO.20151221094547.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:期中作業在節點部分沒有做好，因此詢問同學將其補上&lt;br&gt;1.下載新的班上github -&gt;2015fallcadpb網址，git clone 。
+&lt;br&gt;2.然後進到user找自己的學號打開leo。&lt;br&gt;3.更改節點部分。&lt;br&gt;4.更改完成後，開始在cmd推上遠端。&lt;br&gt;5.執行順序為:git checkout gh-pages -&gt;git add . -&gt;git commit -m"initial" -&gt;git config --global user.email"自己信箱" -&gt;git config --global user.name"自己帳號用的名字"-&gt;git pull origin gh-pages-&gt;git push origin gh-pages 接著輸入自己帳號及密碼就完成~。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+    
+    </t>
+<t tx="LEO.20151221094547.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221094547.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:65 
+    &lt;br&gt;感想:一開始很不知所措，因為有改過推上去的部分，不知道怎麼用，後來看到同學完成就趕快去問怎麼做，在做的過程，明明和同學方式一樣卻失敗了，很難過也很疑惑，在同學的幫忙下發現是電腦網路太慢又或者是推上去過程太長導致電腦錯亂，再試一次後就完成了，後來發現還是有一個連結忘記放，我就試著自己操作，結果成功了，真的超開心，也謝謝同學的出手相助。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="LEO.20151221094547.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221094547.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="LEO.20151221094547.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="LEO.20151221094547.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="LEO.20151221094547.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="LEO.20151221094547.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="LEO.20151221094547.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221094547.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221094547.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 10 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="LEO.20151221094547.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221095409.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="LEO.20151221095409.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:當到一個沒有leo的環境，可直接利用已準備好的隨身fix，完成工作&lt;br&gt;1.到https://wordpress-2015course.rhcloud.com/?page_id=3633
+&lt;br&gt;2.然後進到fix 在copy.com的下載點下載 https://copy.com/zpYyuIcuB3fHAdr0 。&lt;br&gt;3.接著點入自己的隨身環境。&lt;br&gt;4.Ana3_lite2-&gt;data-&gt;SciTE-&gt;SciTE.exe。&lt;br&gt;5.打開以後把下載的fix資料夾裡的fix.bat還有start.bat用SciTE.exe打開。&lt;br&gt;6.再回去網站leo-editor github-&gt;進入之後按releases-&gt;下載broke-abbrev完成
+&lt;br&gt;完成後可以將fix放入自己隨身碟，下次即可不用再做一次一樣的動作&lt;/p&gt;
+&lt;/section&gt;
+    </t>
+<t tx="LEO.20151221095409.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221095409.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:62 
+    &lt;br&gt;感想:看著老師影片跟著一步一步做，慢慢了解並釐清自己每一步的動作，讓我更能吸收了解，而完成此隨身以後，不論到哪都可以讓我更方便更快速完成接下來的動作及作業。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="LEO.20151221095409.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221095409.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="LEO.20151221095409.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="LEO.20151221095409.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="LEO.20151221095409.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="LEO.20151221095409.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="LEO.20151221095409.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221095409.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221095409.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 11 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="LEO.20151221095703.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+ &lt;h1&gt;開啟Leo 步驟&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;此資料夾下載到fix資料夾&lt;/li&gt;
+    &lt;li&gt;回去SciTE.exe&lt;/li&gt;
+    &lt;li&gt;將fix.bat裡面多一行複製 leo-editor-broke-abbrev.zip C:\Ana3_2015\data\→存檔&lt;/li&gt;
+    &lt;li&gt;將start.bat裡面第35行改為pip install leo-editor-broke-abbrev.zip→儲存&lt;/li&gt;
+    &lt;li&gt;全部整理完再回去點start後就成功了&lt;/li&gt;
+    &lt;/ol&gt;		
+    &lt;/section&gt;</t>
+<t tx="LEO.20151221095703.2">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221105255.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="LEO.20151221105255.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:在一個GROUP裡，繪畫自己所分到的零件，並操作多次熟悉之後，在錄影錄音的情況下畫出，搭配自己的繪畫說明。&lt;/p&gt;
+    &lt;br&gt;HANDLE:先畫出方形柱狀再從一面長出圓柱，然後鑽兩個孔。
+    &lt;br&gt;HINGE:先做出其外觀然後鑽孔。
+    
+&lt;/section&gt;
+    </t>
+<t tx="LEO.20151221105255.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221105255.14">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:70 
+    &lt;br&gt;感想:和大家分配然後漸漸完成，在一個協同裡，每個人都很重要，也會想趕快完成交給同伴，因為不想拖到別人完成作業的時間，大家也都會互相幫忙注意，哪裡畫錯哪裡不會都可以互相討論。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="LEO.20151221105255.15">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="LEO.20151221105255.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="LEO.20151221105255.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="LEO.20151221105255.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="LEO.20151221105255.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="LEO.20151221105255.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="LEO.20151221105255.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221105255.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="LEO.20151221105255.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 12 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="LEO.20151221105255.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -497,1223 +711,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="amd.20150913232631.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="amd.20150913233943.1">@language xml
-@tabwidth -4
-@others
-</t>
-<t tx="amd.20150913233943.2">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="amd.20150913233943.3">
-&lt;head&gt;
-@others
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;    
-    &lt;!--Add support for earlier versions of Internet Explorer --&gt;
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-&lt;/head&gt;
- 
-</t>
-<t tx="amd.20150913233943.4">
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;2015 Fall CADP B Week1&lt;/title&gt;
-</t>
-<t tx="amd.20150913233943.5">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150913233943.6">
-&lt;!-- Wrap the entire slide show in a div using the "reveal" class. --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150913233943.7">
-&lt;!-- Wrap all slides in a single "slides" class --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150913233943.81">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-    </t>
-<t tx="amd.20150913233943.82">&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
- 
-    </t>
-<t tx="amd.20150913233943.83">&lt;script&gt;
-        // Required, even if empty.
-        Reveal.initialize({
-        });
-    &lt;/script&gt;
-</t>
-<t tx="amd.20150913234947.1">&lt;section id="title page"&gt;
-&lt;section&gt;
-標題頁面
-&lt;/section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="amd.20150913235034.1">&lt;section&gt;
-本日要點
-&lt;/section&gt;</t>
-<t tx="amd.20150913235123.1">&lt;section&gt;
-結論
-&lt;/section&gt;</t>
-<t tx="amd.20150913235225.1">&lt;section&gt;
-標題頁下的子頁
-&lt;/section&gt;</t>
-<t tx="amd.20150914000138.1">&lt;section&gt;
-&lt;a href="http://continuum.io/downloads"&gt;Anaconda Python 下載&lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150914000332.1">&lt;section id="設計的表達方式"&gt;
-&lt;section&gt;
-設計的表達方式
-&lt;/section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="amd.20150914000332.2">&lt;section&gt;
-協同模式下的網際雲端內容呈現
-&lt;/section&gt;</t>
-<t tx="amd.20150915155634.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915155634.10">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20150915155634.100">
-&lt;th&gt;Item&lt;/th&gt;
-</t>
-<t tx="amd.20150915155634.101">&lt;th&gt;Value&lt;/th&gt;
-								</t>
-<t tx="amd.20150915155634.102">&lt;th&gt;Quantity&lt;/th&gt;
-							</t>
-<t tx="amd.20150915155634.103">&lt;tbody&gt;
-@others
-&lt;/tbody&gt;
-					</t>
-<t tx="amd.20150915155634.104">
-&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915155634.105">
-&lt;td&gt;Apples&lt;/td&gt;
-</t>
-<t tx="amd.20150915155634.106">&lt;td&gt;$1&lt;/td&gt;
-								</t>
-<t tx="amd.20150915155634.107">&lt;td&gt;7&lt;/td&gt;
-							</t>
-<t tx="amd.20150915155634.108">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-							</t>
-<t tx="amd.20150915155634.109">
-&lt;td&gt;Lemonade&lt;/td&gt;
-</t>
-<t tx="amd.20150915155634.11">&lt;section id="fragments"&gt;
-        &lt;h1&gt;課程說明&lt;/h1&gt;
-    &lt;h3 class="fragment"&gt;課程名稱: 電腦輔助設計實習&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;開放 主動 自學與自評&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;使用 Solvespace 與 Creo 2.0&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;每週都有作業, 由各學員自評分數&lt;/h3&gt;
-&lt;/section&gt;
-	</t>
-<t tx="amd.20150915155634.110">&lt;td&gt;$2&lt;/td&gt;
-								</t>
-<t tx="amd.20150915155634.111">&lt;td&gt;18&lt;/td&gt;
-							</t>
-<t tx="amd.20150915155634.112">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-						</t>
-<t tx="amd.20150915155634.113">
-&lt;td&gt;Bread&lt;/td&gt;
-</t>
-<t tx="amd.20150915155634.114">&lt;td&gt;$3&lt;/td&gt;
-								</t>
-<t tx="amd.20150915155634.115">&lt;td&gt;2&lt;/td&gt;
-							</t>
-<t tx="amd.20150915155634.116">&lt;section&gt;
-&lt;h2&gt;Clever Quotes&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.117">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.118">
-These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
-</t>
-<t tx="amd.20150915155634.119">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-&lt;/blockquote&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.12">&lt;section id="fragments"&gt;
-    &lt;h2&gt;實體輔助工具&lt;/h2&gt;
-    &lt;h3 class="fragment"&gt;電動折疊自行車&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;HP 伺服器&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;3D 印表機零件&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;其他需要採購工具?&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;先模擬分析, 再實際驗證?&lt;/h3&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.120">&lt;section&gt;
-&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.121">&lt;p&gt;
-@others
-&lt;/p&gt;
-&lt;/section&gt;
-
-				
-					</t>
-<t tx="amd.20150915155634.122">
-You can link between slides internally,
-&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-</t>
-<t tx="amd.20150915155634.123">&lt;section&gt;
-&lt;h2&gt;Speaker View&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.124">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.125">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
-<t tx="amd.20150915155634.126">&lt;p&gt;
-@others
-&lt;/p&gt;
-    &lt;aside class="notes"&gt;
-    Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.127">Press the &lt;em&gt;S&lt;/em&gt; key to try it out.</t>
-<t tx="amd.20150915155634.128">&lt;section&gt;
-&lt;h2&gt;Export to PDF&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.129">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915155634.130">Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:</t>
-<t tx="amd.20150915155634.131">&lt;iframe src="//www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.132">&lt;section&gt;
-&lt;h2&gt;Global State&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.133">&lt;p&gt;
-@others
-&lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.134">Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and </t>
-<t tx="amd.20150915155634.135">&lt;code&gt;"something"&lt;/code&gt;
-will be added as a class to the document element when the slide is open. This lets you
-apply broader style changes, like switching the page background.
-					</t>
-<t tx="amd.20150915155634.136">&lt;section data-state="customevent"&gt;
-&lt;h2&gt;State Events&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.137">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.138">
-Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-</t>
-<t tx="amd.20150915155634.139">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915155634.14">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;
-    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
-    &lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915155634.140">&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					&lt;/code&gt;</t>
-<t tx="amd.20150915155634.141">&lt;section&gt;
-&lt;h2&gt;Take a Moment&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.142">&lt;p&gt;
-Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-&lt;/p&gt;
-&lt;/section&gt;
-
-				
-					</t>
-<t tx="amd.20150915155634.143">&lt;section&gt;
-&lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-    @others
-    &lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.145">&lt;li&gt;Right-to-left support&lt;/li&gt;
-</t>
-<t tx="amd.20150915155634.146">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.147">&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;</t>
-<t tx="amd.20150915155634.148">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.149">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
-<t tx="amd.20150915155634.15">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915155634.150">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.151">&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;</t>
-<t tx="amd.20150915155634.152">&lt;li&gt;
-@others
-&lt;/li&gt;
-					</t>
-<t tx="amd.20150915155634.153">&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;</t>
-<t tx="amd.20150915155634.154">&lt;section style="text-align: left;"&gt;
-&lt;h1&gt;THE END&lt;/h1&gt;
-&lt;section&gt;
-					</t>
-<t tx="amd.20150915155634.158">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-		</t>
-<t tx="amd.20150915155634.159">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
-
-		</t>
-<t tx="amd.20150915155634.16">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915155634.160">&lt;script&gt;
-
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
-
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-				// Optional reveal.js plugins
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
-
-		&lt;/script&gt;
-
-	</t>
-<t tx="amd.20150915155634.17">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-    Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.18">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-    Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-    Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.19">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-    Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.2">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="amd.20150915155634.20">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-        
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-        
-            ```
-            &lt;section data-markdown&gt;
-              ## Markdown support
-            
-              Write content using inline or external Markdown.
-              Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-            &lt;/section&gt;
-            ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915155634.21">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915155634.28">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915155634.29">&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.3">&lt;head&gt;
-@others
-&lt;/head&gt;
-
-</t>
-<t tx="amd.20150915155634.30">&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.31">&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.32">&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.33">&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.34">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.35">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
-
-
-				
-					</t>
-<t tx="amd.20150915155634.36">&lt;section id="transitions"&gt;
-&lt;h2&gt;Transition Styles&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.37">&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915155634.38">
-You can select from different transitions, like: &lt;br&gt;
-&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-</t>
-<t tx="amd.20150915155634.39">&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.4">&lt;meta charset="utf-8"&gt;
-
-&lt;title&gt;2015 Fall 電腦輔助設計實習 甲班&lt;/title&gt;
-
-</t>
-<t tx="amd.20150915155634.40">&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.41">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.42">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.43">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-					</t>
-<t tx="amd.20150915155634.44">&lt;section id="themes"&gt;
-&lt;h2&gt;Themes&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.45">&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;section data-background="#dddddd"&gt;
-						</t>
-<t tx="amd.20150915155634.46">
-reveal.js comes with a few themes built in: &lt;br&gt;
-&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-</t>
-<t tx="amd.20150915155634.47">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.48">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.49">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.5">&lt;meta name="description" content="2015Fall CADP"&gt;
-&lt;meta name="author" content="KMOL"&gt;
-&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
-&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
-		</t>
-<t tx="amd.20150915155634.50">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.51">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; </t>
-<t tx="amd.20150915155634.52">&lt;br&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.53">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.54">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.55">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915155634.56">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-					</t>
-<t tx="amd.20150915155634.57">&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915155634.58">&lt;p&gt;
-@others
-&lt;/p&gt;
-						</t>
-<t tx="amd.20150915155634.59">
-Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-</t>
-<t tx="amd.20150915155634.60">&lt;a href="#" class="navigate-down"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
-						</t>
-<t tx="amd.20150915155634.61">&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915155634.62">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915155634.63">&lt;code&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915155634.64">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915155634.65">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
-						</t>
-<t tx="amd.20150915155634.66">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
-&lt;/code&gt;</t>
-<t tx="amd.20150915155634.67">&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-@others
-&lt;/div&gt;
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915155634.68">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-</t>
-<t tx="amd.20150915155634.69">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-						</t>
-<t tx="amd.20150915155634.7">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
-
-    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
-
-    &lt;!-- Code syntax highlighting --&gt;
-    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-	</t>
-<t tx="amd.20150915155634.70">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915155634.71">&lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.72">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.73">&lt;p&gt;
-						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-					&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.74">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-				&lt;/section&gt;
-
-				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-					</t>
-<t tx="amd.20150915155634.75">&lt;code&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;</t>
-<t tx="amd.20150915155634.76">&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.77">&lt;p&gt;
-You can override background transitions per-slide.
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915155634.78">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915155634.79">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915155634.8">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915155634.80">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.81">&lt;pre&gt;
-    &lt;code data-trim contenteditable&gt;
-    @others
-    &lt;/code&gt;
-&lt;/pre&gt;
-					</t>
-<t tx="amd.20150915155634.82">function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-</t>
-<t tx="amd.20150915155634.83">&lt;p&gt;
-Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-&lt;/p&gt;
-
-
-
-					</t>
-<t tx="amd.20150915155634.85">&lt;section&gt;
-&lt;h2&gt;Marvelous List&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.86">&lt;ul&gt;
-@others
-&lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915155634.87">
-&lt;li&gt;No order here&lt;/li&gt;
-</t>
-<t tx="amd.20150915155634.88">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.89">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.9">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20150915155634.90">&lt;li&gt;Or here&lt;/li&gt;
-					</t>
-<t tx="amd.20150915155634.91">&lt;section&gt;
-&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.92">&lt;ol&gt;
-@others
-&lt;/ol&gt;
-&lt;/section&gt;
-
-					</t>
-<t tx="amd.20150915155634.93">
-&lt;li&gt;One is smaller than...&lt;/li&gt;
-</t>
-<t tx="amd.20150915155634.94">&lt;li&gt;Two is smaller than...&lt;/li&gt;
-						</t>
-<t tx="amd.20150915155634.95">&lt;li&gt;Three!&lt;/li&gt;
-					</t>
-<t tx="amd.20150915155634.96">&lt;section&gt;
-&lt;h2&gt;Tabular Tables&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915155634.97">&lt;table&gt;
-@others
-&lt;/table&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915155634.98">&lt;thead&gt;
-@others
-&lt;/thead&gt;
-</t>
-<t tx="amd.20150915155634.99">
-&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915160450.1">&lt;section id="fragments"&gt;
-&lt;h2&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Hit the next arrow...&lt;/p&gt;
-&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-&lt;p&gt;
-    &lt;span class="fragment"&gt;... a&lt;/span&gt; 
-    &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
-    &lt;span class="fragment"&gt;slide.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;aside class="notes"&gt;
-This slide has fragments which are also stepped through in the notes window.
-&lt;/aside&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915161424.1">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
-<t tx="amd.20150915170743.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915170743.10">&lt;section&gt;
-    &lt;h1&gt;Reveal.js 使用說明&lt;/h1&gt;
-    &lt;h3&gt;The HTML Presentation Framework 框架&lt;/h3&gt;
-    &lt;p&gt;
-    &lt;small&gt;
-    Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
-    &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;
-    &lt;/small&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-	</t>
-<t tx="amd.20150915170743.100">&lt;td&gt;$1&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.101">&lt;td&gt;7&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.102">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-							</t>
-<t tx="amd.20150915170743.103">
-&lt;td&gt;Lemonade&lt;/td&gt;
-</t>
-<t tx="amd.20150915170743.104">&lt;td&gt;$2&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.105">&lt;td&gt;18&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.106">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-						</t>
-<t tx="amd.20150915170743.107">
-&lt;td&gt;Bread&lt;/td&gt;
-</t>
-<t tx="amd.20150915170743.108">&lt;td&gt;$3&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.109">&lt;td&gt;2&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.11">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.111">&lt;section&gt;
-&lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-    @others
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.112">These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
-</t>
-<t tx="amd.20150915170743.113">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-&lt;/blockquote&gt;
-					</t>
-<t tx="amd.20150915170743.12">&lt;section&gt;
-&lt;h1&gt;以下為垂直頁面&lt;/h1&gt;
-以下為垂直頁
-@others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915170743.13">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;
-    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
-    &lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915170743.135">&lt;section&gt;
-    &lt;h2&gt;Take a Moment&lt;/h2&gt;
-    &lt;p&gt;
-    Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.137">&lt;section&gt;
-&lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-    @others
-    &lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.138">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.139">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
-<t tx="amd.20150915170743.14">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.140">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.141">&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;</t>
-<t tx="amd.20150915170743.142">&lt;li&gt;
-@others
-&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.143">&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;</t>
-<t tx="amd.20150915170743.144">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.145">&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;</t>
-<t tx="amd.20150915170743.146">&lt;li&gt;Right-to-left support&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.147">&lt;section style="text-align: left;"&gt;
-&lt;h1&gt;THE END&lt;/h1&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // Full list of configuration options available at:
-    // https://github.com/hakimel/reveal.js#configuration
-    Reveal.initialize({
-        controls: true,
-        progress: true,
-        history: true,
-        center: true,
-
-        transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-        // Optional reveal.js plugins
-        dependencies: [
-            { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-            { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-            { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-            { src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-            { src: 'plugin/zoom-js/zoom.js', async: true },
-            { src: 'plugin/notes/notes.js', async: true }
-        ]
-    });
-&lt;/script&gt;
-
-	
-
-		
-		</t>
-<t tx="amd.20150915170743.15">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.16">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-    Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.19">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-        
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-        
-            ```
-            &lt;section data-markdown&gt;
-              ## Markdown support
-            
-              Write content using inline or external Markdown.
-              Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-            &lt;/section&gt;
-            ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915170743.2">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="amd.20150915170743.20">&lt;section&gt;
-逐一出現
-    @others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915170743.21">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span class="fragment"&gt;... a&lt;/span&gt; 
-        &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
-        &lt;span class="fragment"&gt;slide.&lt;/span&gt;
-    &lt;/p&gt;
-    
-    &lt;aside class="notes"&gt;
-    This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915170743.22">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915170743.23">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
-<t tx="amd.20150915170743.24">&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.25">&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.26">&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.27">&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.28">&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.29">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.3">&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;檔案標題&lt;/title&gt;
-&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-&lt;meta name="author" content="作者"&gt;
-&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
-&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
-&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
-
-    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
-
-    &lt;!-- Code syntax highlighting --&gt;
-    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;	
-&lt;/head&gt;
-
-</t>
-<t tx="amd.20150915170743.30">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
-
-
-				
-					</t>
-<t tx="amd.20150915170743.59">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;
-    &lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
-    &lt;/code&gt;
-    &lt;/pre&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.7">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915170743.75">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.76">&lt;pre&gt;
-    &lt;code data-trim contenteditable&gt;
-    @others
-    &lt;/code&gt;
-&lt;/pre&gt;
-					</t>
-<t tx="amd.20150915170743.77">function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-</t>
-<t tx="amd.20150915170743.78">&lt;p&gt;
-Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-&lt;/p&gt;
-
-
-
-					</t>
-<t tx="amd.20150915170743.80">&lt;section&gt;
-&lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-    @others
-    &lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.81">&lt;li&gt;No order here&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.82">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.83">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.84">&lt;li&gt;Or here&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.86">&lt;section&gt;
-&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-    @others
-    &lt;/ol&gt;
-&lt;/section&gt;
-
-					</t>
-<t tx="amd.20150915170743.87">&lt;li&gt;One is smaller than...&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.88">&lt;li&gt;Two is smaller than...&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.89">&lt;li&gt;Three!&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.9">&lt;div class="reveal"&gt;
-    &lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-    &lt;div class="slides"&gt;
-    @others
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-</t>
-<t tx="amd.20150915170743.91">&lt;section&gt;
-&lt;h2&gt;Tabular Tables&lt;/h2&gt;
-    &lt;table&gt;
-    @others
-    &lt;/table&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915170743.92">&lt;thead&gt;
-@others
-&lt;/thead&gt;
-</t>
-<t tx="amd.20150915170743.93">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915170743.94">&lt;th&gt;Item&lt;/th&gt;
-</t>
-<t tx="amd.20150915170743.95">&lt;th&gt;Value&lt;/th&gt;
-								</t>
-<t tx="amd.20150915170743.96">&lt;th&gt;Quantity&lt;/th&gt;
-							</t>
-<t tx="amd.20150915170743.97">&lt;tbody&gt;
-@others
-&lt;/tbody&gt;
-					</t>
-<t tx="amd.20150915170743.98">
-&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915170743.99">
-&lt;td&gt;Apples&lt;/td&gt;
-</t>
-<t tx="amd.20150915172241.1">&lt;section id="fragments"&gt;
-        &lt;h1&gt;自評說明&lt;/h1&gt;
-    &lt;h3 class="fragment"&gt;時效內的 Github 倉儲內容&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;完全開放的學員作業內容&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;彼此間可以互相學習&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;存證內容: Github, copy.com, Vimeo 等&lt;/h3&gt;
-    &lt;h3 class="fragment"&gt;要怎麼收穫, 先怎麼栽!&lt;/h3&gt;
-&lt;/section&gt;
-	</t>
-<t tx="amd.20150915173703.1">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915173703.2">&lt;pre&gt;
-    &lt;code data-trim contenteditable&gt;
-    @others
-    &lt;/code&gt;
-&lt;/pre&gt;
-					</t>
-<t tx="amd.20150915173703.3">function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-</t>
-<t tx="amd.20150915173703.4">&lt;p&gt;
-Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-&lt;/p&gt;
-
-
-
-					</t>
-<t tx="amd.20150915204710.1">&lt;section&gt;
-&lt;h1&gt;嵌入 Vimeo 影片&lt;/h1&gt;
-&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915211341.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915211351.1">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;自評及感想&lt;/h1&gt;
-    &lt;p&gt;自評分數:70 感想:其實還是很模糊，不管是步驟或作業，好像沒有一連串的步驟，練習操作上斷斷續續跳來跳去的，會不知道自己做到哪裡.做好了什麼，看完老師錄的影片雖然比較知道要幹嘛可是還是不太懂確切步驟流程，在同學的慢慢協助下，完成了作業，希望可以更進步更了解。&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="amd.20150915211351.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915211351.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;40323208 羅文均 10/1 (10/15修改)&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;簡單說明&lt;/h1&gt;
-    &lt;p&gt;下載老師給的檔案解壓縮，然後用Leo近端修改並在近端執行看看有沒有錯誤，在近端做修改時要做一個gh-pages的分支在github(此時需要在cmd.做步驟)若在近端可以執行即可git push 至遠端完成作業&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="amd.20150917085040.1">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
 <t tx="amd.20150919102739.1">主要為 reveal.js 的簡報目錄架構, 其他子目錄為
 
 images - 存放簡報與 pelican 網誌所需要的影像檔案
@@ -1739,9 +736,8 @@ pelican pelican -o ./../ -s publishconf.py
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
-#os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3")
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
-g.es("pelican 執行完畢")</t>
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
 <t tx="amd.20151006113136.1"></t>
 <t tx="amd.20151007224830.1">安裝
 
@@ -1751,100 +747,13 @@ sudo pip3 install jupyter
 
 jupyter notebook
 </t>
-<t tx="ibm.20150918175403.1">@language xml
+<t tx="leo.20151203165806.1"></t>
+<t tx="leo.20151207101558.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="ibm.20150918175403.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	</t>
-<t tx="ibm.20150918175403.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="ibm.20150918175403.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;2015CP W1&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="ibm.20150918175403.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="ibm.20150918175403.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="ibm.20150918175403.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="ibm.20150918175403.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	</t>
-<t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;課程規劃&lt;/h1&gt;
-    &lt;p&gt;教科書&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
-&lt;/section&gt;
-				</t>
-<t tx="ibm.20150918175403.9">&lt;section&gt;
-    &lt;h1&gt;作業規劃&lt;/h1&gt;
-    &lt;p&gt;影片內容&lt;/p&gt;
-    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
-&lt;/section&gt;
-				</t>
-<t tx="ibm.20150918175711.1">&lt;section&gt;
-    &lt;h1&gt;Git 操作&lt;/h1&gt;
-    &lt;p&gt;git clone&lt;/p&gt;
-    &lt;p&gt;git config --global user.name&lt;/p&gt;
-    &lt;p&gt;git config --global user.email&lt;/p&gt;
-    &lt;p&gt;git add -A&lt;/p&gt;
-    &lt;p&gt;git commit -m&lt;/p&gt;
-    &lt;p&gt;git push&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="ibm.20150918175951.1">&lt;section&gt;
-    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
-    &lt;p&gt;啟動&lt;/p&gt;
-    &lt;p&gt;基本執行&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="ibm.20150918181528.1">&lt;section&gt;
-    &lt;h1&gt;結論&lt;/h1&gt;
-    &lt;p&gt;自主開放學習&lt;/p&gt;
-    &lt;p&gt;線上教材&lt;/p&gt;
-    &lt;p&gt;影音教材&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20151015151028.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151015151028.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151207101558.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1853,14 +762,14 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151015151028.2">&lt;!--
+<t tx="leo.20151207101558.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151015151028.3">&lt;!doctype html&gt;
+<t tx="leo.20151207101558.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1874,21 +783,90 @@ jupyter notebook
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151015151028.4">&lt;body&gt;
+<t tx="leo.20151207101558.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151015151028.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151207101558.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151015151028.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151207101558.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151015151028.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151207101558.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323208 羅文均 10/1 (10/15修改)&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151207101558.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;簡單說明&lt;/h1&gt;
+    &lt;p&gt;下載老師給的檔案解壓縮，然後用Leo近端修改並在近端執行看看有沒有錯誤，在近端做修改時要做一個gh-pages的分支在github(此時需要在cmd.做步驟)若在近端可以執行即可git push 至遠端完成作業&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151207101558.9">&lt;section&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:70 感想:其實還是很模糊，不管是步驟或作業，好像沒有一連串的步驟，練習操作上斷斷續續跳來跳去的，會不知道自己做到哪裡.做好了什麼，看完老師錄的影片雖然比較知道要幹嘛可是還是不太懂確切步驟流程，在同學的慢慢協助下，完成了作業，希望可以更進步更了解。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151207101606.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151207101606.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151207101606.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151207101606.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151207101606.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151207101606.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151207101606.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151207101606.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1897,7 +875,7 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151015151028.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151207101606.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;簡單說明&lt;/h1&gt;
     &lt;p&gt;1.更改新版需要先下載 fix(如果不是在教室，要用copy.com下載並解壓縮)，然後在自己的github建立一個新的資料夾並zip下來當作近端修改的資料夾，並在近端遠端皆建一個gh-pages的分支(步驟參考第2周作業)
     
@@ -1905,17 +883,17 @@ jupyter notebook
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151015151028.9">&lt;section&gt;
+<t tx="leo.20151207101606.9">&lt;section&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:82 感想:操作多次以後就更了解自己在做什麼了，也知道想改變螢幕頁面上哪個地方可以去leo的哪邊更改，發現其實leo真的挺方便管理，之前不太了解就覺得是一個很難的東西，但是操作理解過後就懂其方便及重要性，邊看老師和同學的錄影跟著一步一步做.慢慢吸收，當自己作業完成還可以解決同學的困難，真的很開心，也讓自己更有信心。畫圖的部分雖然很卡但是多畫幾次就比較上手。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151101174903.1">@language xml
+<t tx="leo.20151207101624.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151101174903.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151207101624.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1924,14 +902,14 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151101174903.2">&lt;!--
+<t tx="leo.20151207101624.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151101174903.3">&lt;!doctype html&gt;
+<t tx="leo.20151207101624.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1945,21 +923,21 @@ jupyter notebook
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151101174903.4">&lt;body&gt;
+<t tx="leo.20151207101624.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151101174903.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151207101624.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151101174903.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151207101624.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151101174903.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151207101624.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1968,18 +946,648 @@ jupyter notebook
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151101174903.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151207101624.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;簡單說明&lt;/h1&gt;
     &lt;p&gt;1.在檔案中找到creo。
 &lt;br&gt;2.利用creo繪圖軟體操作，了解操作方法並練習題目。&lt;br&gt;3.將兩個零件組裝。&lt;br&gt;4.運用前幾次的方式將檔案在近端先執行看是否有錯，若沒有即可推上遠端。&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151101174903.9">&lt;section&gt;
+<t tx="leo.20151207101624.9">&lt;section&gt;
     &lt;h1&gt;自評及感想&lt;/h1&gt;
     &lt;p&gt;自評分數:70 感想:這次的作業在操作上比之前上手，軟體也比較知道該怎麼運用畫圖，雖然是看著同學的說明影片作出，但是自己也多加練習了幾次，希望自己能更熟練，感覺creo跟之前所學的solidwork有點相似，使用起來也比較熟悉，組裝的步驟覺得很有趣，感覺自己也可以實際動腦想要怎麼組裝。
     而建立新分頁這些動作也比較熟練了應該是作業弄了很多次才成功的收穫吧 。&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151228095024.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102726.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20151228102726.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:將自己的零件及組員的零件組合起來並錄影片。&lt;br&gt;1.下載組員分享的creo零件圖&lt;br&gt;2.利用組合將其組立起來&lt;br&gt;3.練習多次之後即可錄影片。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20151228102726.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102726.14">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:65 
+    &lt;br&gt;感想:在組合的時候，可以動腦想像要如何組合並運用軟體的功能，可能和之前操作的軟體功能不一樣，所以要多加摸索才能熟悉了解，而當自己完成後可以幫助其他同學也覺得很開心，讓自己更了解懂不懂及吸收多少。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151228102726.15">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228102726.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228102726.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151228102726.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20151228102726.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228102726.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228102726.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228102726.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228102726.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 13 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228102726.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228112835.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20151228112835.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:把自己畫的零件CREO檔改成STL檔，可以呈現在網頁上，讓觀看者更清楚明白。&lt;br&gt;1.先進入http://2015fallhw.github.io/2015fallcadpb/9999_w13_1.html (此為組別課程的老師示範)
+    &lt;br&gt;2.把自己的零件打開然後另存新檔，種類改為stl.檔
+    &lt;br&gt;3.會出現小視窗，需做更改，再點選ASCII，Allow negative values要打勾，下面數字部分改成零，點選OK即完成&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20151228112835.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228112835.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:62 
+    &lt;br&gt;感想:這個步驟其實操作上很簡單，可是完成後可以有更好的效果，但是簡單的步驟裡也容易不小心忘記連續動作是什麼，看到完成的東西，感覺很神奇。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151228112835.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20151228112835.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151228112835.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151228112835.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20151228112835.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151228112835.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151228112835.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228112835.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151228112835.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 14 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151228112835.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104101716.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:利用線上的繪圖軟體onshape畫出之前利用creo畫的零件。
+    &lt;br&gt;handle:先點草繪，然後選要畫的面，轉正視圖，畫一正方形開始長料，再依同步驟畫圓形長料，然後鑽孔。
+    &lt;br&gt;hinge:和handle大同小異，只需畫出自己需要的形狀，再改尺寸然後長料鑽孔即可。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104101716.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:65 
+    &lt;br&gt;感想:這是第一次用這個軟體，感覺新奇可是在操作過程中很卡因為會有之前使用其他軟體的繪圖習慣，加上對這個軟體很不熟，後來在拍影片之前多操作練習了幾次，發現其實也還不錯用，就是熟練度的部分需加強。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104101716.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104101716.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104101716.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104101716.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104101716.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104101716.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104101716.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104101716.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104101716.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 15 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104101716.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104103122.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:把零件用onshape組合
+    &lt;br&gt;群組中的一人建立大家可共用的部分&lt;br&gt;確認可以和隊員共用零件
+    &lt;br&gt;從基底部分組合，利用軸對軸和面貼面的限制條件加以思考並組合出整體。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104103122.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數:68 
+    &lt;br&gt;感想:onshape的組合比它的零件難操作出來，一開始看同學的影片操作加上自己組合其實還算可以，有點像是反覆動作，只是當要點軸時，必須要把滾輪滾到很近才容易找到對的點，感覺花費很多時間，而當我組到最後一個部分時，發現一直出現衝突，我也努力找出，可是依舊不能完成，真的覺得快崩潰，終於在我努力不放棄加上詢問同學後終於做出來。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104103122.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104103122.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104103122.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104103122.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104103122.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104103122.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104103122.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104103122.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104103122.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 16 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104103122.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160104105231.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業說明&lt;/h1&gt;
+    &lt;p&gt;目的:利用solvespace劃出機構圖，然後找出實體操作時的限制，例如哪裡會卡住或是無法轉動，然後在onshape輸入的數值進行模擬。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160104105231.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.12">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;自評及感想&lt;/h1&gt;
+    &lt;p&gt;自評分數: 70
+    &lt;br&gt;感想:這周算是總結了，把組合後的機構做總整理，也加入限制條件，再利用之前學過的solvespace輔助，所以之前學的也是很重要的，要多加練習，完成整個學期的作業覺得很開心也覺得自己多了更多學習的東西。&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20160104105231.13">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B 學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160104105231.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160104105231.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160104105231.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160104105231.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160104105231.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160104105231.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104105231.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160104105231.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 17 週開始的規劃&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160104105231.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160107134017.1">@language python
+# 導入 os 模組
+import os
+
+# p 為目前所在節點
+for ch in p.children():
+    filename = ch.h.split(" ")[1]
+    os.system("firefox "+filename)</t>
+<t tx="leo.20160107134017.10">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+&lt;section id="hw-task-one"&gt;
+    &lt;h50&gt;自評&lt;/h50&gt;
+    &lt;p&gt;自評分數:72
+    &lt;br&gt;這學期對倉儲的觀念更清楚，也更知道要幹嘛，還有使用其他軟體繪圖和組立，看著作業一周一周在自己的努力和同學幫助下漸漸完成，就覺得好開心和成就，會更激發自己完成作業的動力。&lt;/p&gt;
+    
+&lt;/section&gt;
+    </t>
+<t tx="leo.20160107134017.11">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
+<t tx="leo.20160107134017.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160107134017.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160107134017.3">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160107134017.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W13 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160107134017.5">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160107134017.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107134017.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107134017.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;期末自評&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160107134017.9">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B  學號: 40323208"; }&lt;/style&gt;</t>
 </tnodes>
 </leo_file>
